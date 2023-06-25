@@ -9,7 +9,8 @@ by Cognitive class powered
 byIBM ) -(https://courses.cognitiveclass.ai/certificates/99649c60c26243a7a4398f005921a662)
 
 The Joy Of Computing Using Python
-![NPTEL Certificate](https://github.com/SVSG21/coursework/assets/85582946/28d93139-ca89-4eb5-834c-c7585fe2d50c)
+![NPTEL Certificate](https://github.com/SVSG21/coursework/assets/85582946/4de3e201-2ab2-4baa-9613-7f4a1e9907b1)
+
 
 
 ESSENTIALS PROGRAM IN
